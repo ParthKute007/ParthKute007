@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, I'm Parth Kute 👋
+🎓 B.Tech CSE (Cloud Computing) | 1st Year
+🏫 VIT Bhopal University
+🔢 Reg No: 25BSA10151
 
-<!--
-**ParthKute007/ParthKute007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm a first-year Computer Science student specialising in Cloud Computing at VIT Bhopal University. I'm just getting started on my tech journey and I'm excited to learn, build, and grow over the next four years.
+I hope to develop strong skills in cloud infrastructure, software development, and problem solving — and eventually work on projects that solve real-world problems.
 
-Here are some ideas to get you started:
+🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fundamentals of Programming (C/C++)
+Digital Literacy & Online Safety
+Cloud Computing Basics
+Git & GitHub
