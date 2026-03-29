@@ -25,7 +25,7 @@ I hope to develop strong skills in cloud infrastructure, software development, a
 
 ## 📫 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/parth-kute-42461a378)
+[LinkedIn](www.linkedin.com/in/parth-kute-42461a378)
 
 ---
 
